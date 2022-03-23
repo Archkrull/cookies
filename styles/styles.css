@@ -1,0 +1,23 @@
+
+body {
+    background-color: #d1a64f;
+    color: #4d3402;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    
+}
+
+div {
+    display: flex; 
+    flex-basis: 50%;
+    flex-direction: column;
+
+}
+
+.image-half {
+    align-items: center;
+}
+
+img {
+    width: 65%;
+}
